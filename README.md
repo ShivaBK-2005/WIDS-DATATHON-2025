@@ -16,7 +16,7 @@ This project was developed for the **WiDS Datathon 2025** hosted by Kaggle, achi
 | 1 | Vishal N | 01FE23BCS294 |
 | 2 | Disha S | 01FE23BCS187 |
 | 3 | Sanjana C | 01FE23BCS136 |
-| 4 | Harsh P | 01FE23BCS013 |
+| 4 | Shivakumar B Kenjadimath| 01FE23BCS158 |
 
 ---
 
